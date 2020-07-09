@@ -186,6 +186,9 @@
     padding-top: 15px;
     display: block;
   }
+  .header-content p{
+    padding-top: 90%;
+  }
   /* About */
   .head-info .header-content h1 {
     font-size: 32px;

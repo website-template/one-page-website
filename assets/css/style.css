@@ -90,6 +90,11 @@ p {
   line-height: 28px;
 }
 
+ul{
+  justify-content: center;
+  display: flex;
+}
+
 ::-moz-selection {
   background: #b8a07e;
   color: #fff;
@@ -240,7 +245,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background: url("../images/home-bg.jpg") repeat scroll center center / cover;
+  background: url("../images/home.jpg") repeat scroll center center / cover;
   height: 100vh;
   width: 100%;
 }
@@ -264,6 +269,7 @@ nav ul li a {
 }
 
 .header-content p {
+  padding-top: 60%;
   font-size: 13px;
   letter-spacing: 5px;
   margin-top: 0;
