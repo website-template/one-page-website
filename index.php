@@ -17,6 +17,7 @@
   <link rel="shortcut icon" href="images/favicon.png">
 </head>
 <body>
+  <!-- comment -->
   <div id="header" class="home">
     <div class="container">	
       <div class="header-content">
